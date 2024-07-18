@@ -1,0 +1,33 @@
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Game Scraper.csproj.AssemblyReference.cache
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Game Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Game Scraper.AssemblyInfoInputs.cache
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Game Scraper.AssemblyInfo.cs
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Game Scraper.csproj.CoreCompileInputs.cache
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Game Scraper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Game Scraper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\appsettings.json
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\Video Game Scraper.exe
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\Video Game Scraper.deps.json
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\Video Game Scraper.runtimeconfig.json
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\Video Game Scraper.dll
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\Video Game Scraper.pdb
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\staticwebassets\msbuild.Video Game Scraper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\staticwebassets\msbuild.build.Video Game Scraper.props
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Video Game Scraper.props
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Video Game Scraper.props
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\scopedcss\bundle\Video Game Scraper.styles.css
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Ga.A42EE785.Up2Date
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Game Scraper.dll
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\refint\Video Game Scraper.dll
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Game Scraper.pdb
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\Video Game Scraper.genruntimeconfig.cache
+C:\Users\jhenn\source\repos\Video Game Scraper\Video Game Scraper\obj\Debug\net8.0\ref\Video Game Scraper.dll

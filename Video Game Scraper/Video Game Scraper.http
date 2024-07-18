@@ -1,0 +1,6 @@
+@Video_Game_Scraper_HostAddress = http://localhost:5171
+
+GET {{Video_Game_Scraper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

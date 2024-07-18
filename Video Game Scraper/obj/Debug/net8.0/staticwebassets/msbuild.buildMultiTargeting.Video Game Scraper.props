@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Video Game Scraper.props" />
+</Project>
